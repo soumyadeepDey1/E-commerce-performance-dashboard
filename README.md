@@ -73,10 +73,10 @@ Business questions were solved using SQL, including:
 
 ## 📸 Dashboard Preview
 
-![Overview](screenshots/page1-overview.png)
-![Funnel](screenshots/page2-funnel.png)
-![Product](screenshots/page3-product.png)
-![User Behavior](screenshots/page4-behavior.png)
+![Overview](Screenshots/Overview.jpg)
+![Funnel](Screenshots/Funnel.jpg)
+![Product](Screenshots/Product.jpg)
+![User Behavior](Screenshots/User_Behavior.png)
 
 ---
 
