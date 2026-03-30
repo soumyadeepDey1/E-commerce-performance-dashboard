@@ -76,7 +76,7 @@ Business questions were solved using SQL, including:
 ![Overview](Screenshots/Overview.jpg)
 ![Funnel](Screenshots/Funnel.jpg)
 ![Product](Screenshots/Product.jpg)
-![User Behavior](Screenshots/User_Behavior.png)
+![User Behavior](Screenshots/User_Behavior.jpg)
 
 ---
 
