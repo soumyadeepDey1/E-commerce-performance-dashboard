@@ -53,7 +53,16 @@ The dataset includes ~472K sessions, ~32K orders, and ~$1.94M in total revenue.
 * Average engagement: ~2.5 pages/session and ~1.24 items/order
 
 ---
+## 🗄️ SQL Analysis
 
+Business questions were solved using SQL, including:
+
+- Conversion rate calculation  
+- Funnel analysis  
+- Product performance  
+- Refund analysis  
+
+👉 [View SQL Queries](Fuzzy_Factory.sql)
 ## 🛠️ Tools & Technologies
 
 * Power BI (Data Visualization)
