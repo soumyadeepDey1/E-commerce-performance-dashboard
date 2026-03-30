@@ -108,4 +108,4 @@ This dashboard helps stakeholders:
 ## 🧠 Author
 
 Created by *Soumyadeep Dey*
-Aspiring Data Analyst | SQL | Python | Power BI
+* Aspiring Data Analyst | SQL | Python | Power BI
